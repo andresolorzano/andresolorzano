@@ -7,7 +7,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,php,css,html,mysql,laravel,line=12"/>
+    <img src="https://skillicons.dev/icons?i=java,php,css,html,mysql,laravel,bootstrap,line=12"/>
   </a>
 </p>
 <br>
@@ -20,7 +20,7 @@
 <p>Para comunicarte conmigo o para más información sobre mi trabajo, puedes encontrarme en las siguientes plataformas:</p>
 <p align="left">
   <a href="https://www.facebook.com/profile.php?id=100078833395460&mibextid=LQQJ4d" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="unsimpledev"  /></a>
-<a href = "andrehorizon25@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
- <a href="https://www.linkedin.com/in/andre-solorzano-575a43290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a> 
+  <a href = "andrehorizon25@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  />     </a>
+  <a href="https://www.linkedin.com/in/andre-solorzano-575a43290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a> 
 </p>
 <br>
